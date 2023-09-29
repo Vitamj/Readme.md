@@ -27,7 +27,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vitamj&bg_color=bbdefb&color=708090&line=ec407a&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vitamj&bg_color=c5cae9&color=76ff03&line=e91e63&point=76ff03&area_color=f50057&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vitamj&bg_color=ffffff&color=c5cae9&line=e91e63&point=76ff03&area_color=f50057&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
