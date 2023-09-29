@@ -21,7 +21,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vitamj&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vitamj&bg_color=ffffff&color=1a237e&line=e91e63&point=7986cb&area_color=f50057&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vitamj&bg_color=ffffff&color=1a237e&line=e91e63&point=5c6bc0&area_color=f50057&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
